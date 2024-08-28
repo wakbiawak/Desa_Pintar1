@@ -106,7 +106,7 @@ font-size: 22px;
 
 .section1{
     height: 301px;
-    width: 1756px;
+    width: 1512px;
     background: #00A69B;
     display: flex;
     justify-content: space-between;
@@ -150,7 +150,7 @@ font-size: 22px;
     box-sizing: border-box;
 }
 .section2 {
-    width: 1355px;
+    width: 1512px;
     height: auto;
     display: flex;
     justify-content: space-between;
