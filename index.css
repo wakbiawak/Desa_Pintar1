@@ -4,7 +4,7 @@ body{
 }
 .container {
     overflow: hidden;
-    width: 1440px;
+    width: 1512px;
     height: 2245px;
     border: 0px solid black;
     position: relative;
@@ -150,7 +150,7 @@ font-size: 22px;
     box-sizing: border-box;
 }
 .section2 {
-    width: 1355px;
+    width: 1512px;
     height: auto;
     display: flex;
     justify-content: space-between;
