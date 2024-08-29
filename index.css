@@ -67,7 +67,7 @@ font-size: 22px;
 .hero {
     height: 898px;
     width: 1512px;
-    background-image: url(./images/desa pintar);
+    background-image: url(./images/desa\ pintar);
     display: inline-block;
 }
 .slider {
